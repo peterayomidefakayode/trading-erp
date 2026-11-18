@@ -1,0 +1,12 @@
+{
+  "name": "Trading ERP",
+  "short_name": "Trading ERP",
+  "description": "A disciplined command centre for multi-asset trading.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05080d",
+  "theme_color": "#05080d",
+  "icons": [
+    { "src": "/trading-erp-logo.png", "sizes": "any", "type": "image/png", "purpose": "any" }
+  ]
+}
